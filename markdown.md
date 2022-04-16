@@ -31,3 +31,8 @@
 *This text* is italic
 
 _This text_ is italic
+
+## **Strong**
+This text* is **strong**
+
+This text* is __strong__
