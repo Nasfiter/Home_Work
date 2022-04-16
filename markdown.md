@@ -8,3 +8,13 @@
 * Readme Files (Github, etc)
 * Forum & Blog Posts 
 * Used In Many Static Site Generators
+
+## Some Things You Can Format 
+* Headings 
+* Lists
+* Emphasis 
+* Links 
+* Blocks os Code
+* Images 
+* Blockquotes
+* Horizontal Rules
