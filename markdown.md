@@ -27,3 +27,7 @@
 ##### Heading 5 
 ###### heading 6
 
+## _Italics_
+*This text* is italic
+
+_This text_ is italic
