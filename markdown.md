@@ -36,3 +36,7 @@ _This text_ is italic
 This text* is **strong**
 
 This text* is __strong__
+
+## __Strikethrough__
+
+~~This text~~ is strikethrough
