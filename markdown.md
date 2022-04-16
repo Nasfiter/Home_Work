@@ -40,3 +40,8 @@ This text* is __strong__
 ## __Strikethrough__
 
 ~~This text~~ is strikethrough
+
+## __Horizontal Rule__ 
+
+---
+___
