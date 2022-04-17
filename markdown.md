@@ -20,6 +20,11 @@ __For example__
 
 ## Images
 
+In case to insert needs 
+
+![Cakes](cakes.jpeg)
+
+
 ## Links
 
 ## Tables 
