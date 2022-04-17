@@ -8,13 +8,13 @@ __What Is Markdown?__
 
 ## Makking the text strong 
 
-In case to make the text ITALIC  you have to suraound it with stars (*)
+In case to make the text ITALIC  you have to suraound it with stars (*) or with (_) 
+_for example_ 
 
-To make text **STONG** have to make it surounded by (**)
+To make text **STONG** have to make it surounded by (**) or (__)
+
+__For example__
  
-
-*dfgdf* 
-
 
 ## Listes 
 
