@@ -18,7 +18,21 @@ __For example__
 
 ## Listes 
 
-Making a conflict setuation cos this block was created in branch LISTS
+To make lists as UL you have to put (*) or (+) at the begining.
+
+* Item 1
+* Item 2
+* Item 3 
+    * Item 3.1
+    * Item 3.2
++ Item 4
+
+To make lists as OL you have to put (1. 2. 3. ...) at the begining.
+
+EXP:
+
+1. Item 1
+2. Item 2 
 
 ## Images
 
