@@ -128,6 +128,10 @@ Tables aren't part of the core Markdown spec, but they are part of *GFM* and *MA
 
 ## Quotes 
 
+To male Blockquotes simply use this simvol (>) at the beginig of the line 
+
+> exp of Blockquotes 
+
 ### Conclusion 
 
 
