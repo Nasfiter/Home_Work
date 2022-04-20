@@ -111,6 +111,10 @@ In case to insert needs
 
 ## Links
 
+to make link do next: 
+
+[mail.ru](https://www.mail.ru)
+
 ## Tables 
 
 ## Quotes 
