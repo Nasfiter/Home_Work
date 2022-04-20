@@ -116,3 +116,6 @@ In case to insert needs
 ## Quotes 
 
 ### Conclusion 
+
+# SEMINAR #2 
+
