@@ -117,5 +117,5 @@ In case to insert needs
 
 ### Conclusion 
 
-# SEMINAR #2 
+
 
