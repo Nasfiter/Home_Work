@@ -117,6 +117,15 @@ to make link do next:
 
 ## Tables 
 
+Tables aren't part of the core Markdown spec, but they are part of *GFM* and *MARKDOWN*. 
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
 ## Quotes 
 
 ### Conclusion 
