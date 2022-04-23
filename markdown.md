@@ -134,5 +134,24 @@ To male Blockquotes simply use this simvol (>) at the beginig of the line
 
 ### Conclusion 
 
+# _Pull Request instractions_ 
+
+## Клонируем репозиторий 
+git clone https://github.com/gogoleff/verstka-tasks-1.git verstka-tasks-1
+
+### Заходим в созданную папку с клоном
+cd verstka-tasks-1
+
+### Решаем задачу в любимом редакторе...
+
+### Добавляем все изменённые файлы через пробел
+git add index.html
+
+### Коммитим (утверждаем изменения)
+git commit -m "Моё решение задачи"
+
+### Отправляем ветку с коммитом в удалённый личный (origin) репозиторий
+### (может попросить ввод логина и пароля)
+git push origin master
 
 
